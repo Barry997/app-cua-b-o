@@ -1,0 +1,6 @@
+{
+  "name": "Quản Trị Học Tập – Anh Văn THPT",
+  "description": "Hệ thống quản trị học tập dành cho giáo viên: quản lý lớp học, danh sách học sinh, điểm danh, điểm số, bài tập và kế hoạch giảng dạy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
